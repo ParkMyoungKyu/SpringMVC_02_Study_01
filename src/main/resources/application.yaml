@@ -1,3 +1,5 @@
 spring:
   application:
     name: thymeleaf-basic
+server:
+  port: 7080
